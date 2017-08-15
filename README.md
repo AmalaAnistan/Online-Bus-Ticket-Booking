@@ -1,4 +1,4 @@
-# busticket-registration
+# Online Bus Ticket Booking
 Bus ticket booking using bootstrap, Jquery, 
 
 prerequisites for ticket registration
