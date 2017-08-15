@@ -1,3 +1,5 @@
+<!-- Created by Amal -->
+
 <?php
 $connect=mysqli_connect('localhost','root','','ticket');
 
