@@ -1,3 +1,5 @@
+<!-- Created by Amal -->
+
 <?php include 'db.php'; ?>
 
 <?php
